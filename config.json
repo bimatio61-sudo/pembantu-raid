@@ -1,0 +1,29 @@
+{
+  "raidNestOptions": [
+    "DDN Classic",
+    "SDN Classic",
+    "GDN Classic",
+    "IDN Classic",
+    "BDN Classic",
+    "Other"
+  ],
+  "partyRoles": [
+    { "id": "MT", "label": "MT", "emoji": "🛡️" },
+    { "id": "PR", "label": "PR", "emoji": "✚" },
+    { "id": "MC", "label": "MC", "emoji": "🥊" },
+    { "id": "EL", "label": "EL", "emoji": "🧬" },
+    { "id": "FU", "label": "FU", "emoji": "🗝️" },
+    { "id": "SM", "label": "SM", "emoji": "⚔️" },
+    { "id": "DPS1", "label": "DPS1", "emoji": "⚔️" },
+    { "id": "DPS2", "label": "DPS2", "emoji": "⚔️" }
+  ],
+  "partyNotes": [
+    "Subclass ASSASSIN, KALI, ARCHER, ACADEMIC in DPS",
+    "MC: ± slot for DPS/UTILITY",
+    "DA available in SM",
+    "Adept available in EL | Light fury available in PR"
+  ],
+  "salary": {
+    "defaultStampPrice": 3
+  }
+}
